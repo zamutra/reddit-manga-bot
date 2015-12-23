@@ -1,0 +1,27 @@
+{
+  "name": "reddit-anime-greetings",
+  "version": "1.0.0",
+  "description": "Greetings bot for #reddit-manga",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d lib",
+    "dev": "./node_modules/babel-cli/bin/babel-node.js src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zamutra/reddit-anime-greetings.git"
+  },
+  "author": "zamutra",
+  "license": "SEE LICENCE IN LICENCE",
+  "bugs": {
+    "url": "https://github.com/zamutra/reddit-anime-greetings/issues"
+  },
+  "homepage": "https://github.com/zamutra/reddit-anime-greetings#readme",
+  "dependencies": {
+    "irc": "^0.4.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.3.17"
+  }
+}
