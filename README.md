@@ -1,5 +1,5 @@
-# reddit-anime-greetings
-IRC greetings bot for #reddit-manga
+# reddit-manga-bot
+IRC bot for #reddit-manga
 
 ## Getting Started:
 
